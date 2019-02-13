@@ -1,0 +1,33 @@
+C:\Users\xiaom\source\repos\MoneyVeo\MoneyVeo.Web\bin\Debug\netcoreapp2.0\MoneyVeo.Web.deps.json
+C:\Users\xiaom\source\repos\MoneyVeo\MoneyVeo.Web\bin\Debug\netcoreapp2.0\MoneyVeo.Web.runtimeconfig.json
+C:\Users\xiaom\source\repos\MoneyVeo\MoneyVeo.Web\bin\Debug\netcoreapp2.0\MoneyVeo.Web.runtimeconfig.dev.json
+C:\Users\xiaom\source\repos\MoneyVeo\MoneyVeo.Web\bin\Debug\netcoreapp2.0\MoneyVeo.Web.dll
+C:\Users\xiaom\source\repos\MoneyVeo\MoneyVeo.Web\bin\Debug\netcoreapp2.0\MoneyVeo.Web.pdb
+C:\Users\xiaom\source\repos\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.csprojAssemblyReference.cache
+C:\Users\xiaom\source\repos\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.csproj.CoreCompileInputs.cache
+C:\Users\xiaom\source\repos\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.AssemblyInfoInputs.cache
+C:\Users\xiaom\source\repos\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.AssemblyInfo.cs
+C:\Users\xiaom\source\repos\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.dll
+C:\Users\xiaom\source\repos\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.pdb
+C:\Users\MKovtun\Downloads\Telegram Desktop\MoneyVeo\MoneyVeo\MoneyVeo.Web\bin\Debug\netcoreapp2.0\MoneyVeo.Web.deps.json
+C:\Users\MKovtun\Downloads\Telegram Desktop\MoneyVeo\MoneyVeo\MoneyVeo.Web\bin\Debug\netcoreapp2.0\MoneyVeo.Web.runtimeconfig.json
+C:\Users\MKovtun\Downloads\Telegram Desktop\MoneyVeo\MoneyVeo\MoneyVeo.Web\bin\Debug\netcoreapp2.0\MoneyVeo.Web.runtimeconfig.dev.json
+C:\Users\MKovtun\Downloads\Telegram Desktop\MoneyVeo\MoneyVeo\MoneyVeo.Web\bin\Debug\netcoreapp2.0\MoneyVeo.Web.dll
+C:\Users\MKovtun\Downloads\Telegram Desktop\MoneyVeo\MoneyVeo\MoneyVeo.Web\bin\Debug\netcoreapp2.0\MoneyVeo.Web.pdb
+C:\Users\MKovtun\Downloads\Telegram Desktop\MoneyVeo\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.csprojAssemblyReference.cache
+C:\Users\MKovtun\Downloads\Telegram Desktop\MoneyVeo\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.csproj.CoreCompileInputs.cache
+C:\Users\MKovtun\Downloads\Telegram Desktop\MoneyVeo\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.AssemblyInfoInputs.cache
+C:\Users\MKovtun\Downloads\Telegram Desktop\MoneyVeo\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.AssemblyInfo.cs
+C:\Users\MKovtun\Downloads\Telegram Desktop\MoneyVeo\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.dll
+C:\Users\MKovtun\Downloads\Telegram Desktop\MoneyVeo\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.pdb
+C:\Users\xiaom\Downloads\MoneyVeo\MoneyVeo.Web\bin\Debug\netcoreapp2.0\MoneyVeo.Web.deps.json
+C:\Users\xiaom\Downloads\MoneyVeo\MoneyVeo.Web\bin\Debug\netcoreapp2.0\MoneyVeo.Web.runtimeconfig.json
+C:\Users\xiaom\Downloads\MoneyVeo\MoneyVeo.Web\bin\Debug\netcoreapp2.0\MoneyVeo.Web.runtimeconfig.dev.json
+C:\Users\xiaom\Downloads\MoneyVeo\MoneyVeo.Web\bin\Debug\netcoreapp2.0\MoneyVeo.Web.dll
+C:\Users\xiaom\Downloads\MoneyVeo\MoneyVeo.Web\bin\Debug\netcoreapp2.0\MoneyVeo.Web.pdb
+C:\Users\xiaom\Downloads\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.csprojAssemblyReference.cache
+C:\Users\xiaom\Downloads\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.csproj.CoreCompileInputs.cache
+C:\Users\xiaom\Downloads\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.AssemblyInfoInputs.cache
+C:\Users\xiaom\Downloads\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.AssemblyInfo.cs
+C:\Users\xiaom\Downloads\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.dll
+C:\Users\xiaom\Downloads\MoneyVeo\MoneyVeo.Web\obj\Debug\netcoreapp2.0\MoneyVeo.Web.pdb

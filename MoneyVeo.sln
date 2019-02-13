@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyVeo.Web", "MoneyVeo.Web\MoneyVeo.Web.csproj", "{1E2CDB21-E78B-4AE1-9197-F78F5585F8B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyVeo.Test.Services", "MoneyVeo.Test.Services\MoneyVeo.Test.Services.csproj", "{F590D1AE-ACAA-4B41-AFB0-48CBA80BB7FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E2CDB21-E78B-4AE1-9197-F78F5585F8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2CDB21-E78B-4AE1-9197-F78F5585F8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2CDB21-E78B-4AE1-9197-F78F5585F8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2CDB21-E78B-4AE1-9197-F78F5585F8B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F590D1AE-ACAA-4B41-AFB0-48CBA80BB7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F590D1AE-ACAA-4B41-AFB0-48CBA80BB7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F590D1AE-ACAA-4B41-AFB0-48CBA80BB7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F590D1AE-ACAA-4B41-AFB0-48CBA80BB7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA03CE4A-FEAE-443B-82DE-40F43489A43E}
+	EndGlobalSection
+EndGlobal

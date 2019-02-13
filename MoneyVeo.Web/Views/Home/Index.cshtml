@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<style>
+    .matrix-row {
+        text-align: center;
+        font-size: 20px;
+        letter-spacing: 6px;
+    }
+</style>
+
+<div class="row">
+    <form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="UploadMatrix">
+        <input name="file" class="btn btn-primary" value="Загрузить матрицу из файла .csv" type="file" accept=".csv" />
+        <br />
+        <input class="btn btn-primary" type="submit" value="Загрузить матрицу из файла .csv" />
+    </form>
+
+    <br />
+    <button class="btn btn-default" onclick="getRandomMatrix()">Сгенерировать рандомную матрицу</button>
+    <button class="btn btn-default" onclick="getRotatedMatrix()">Повернуть матрицу на 90 градусов</button>
+    <button class="btn btn-default" onclick="getCsv()">Экспортировать матрицу в файл .csv</button>
+</div>
+
+<div class="row" id="table-container">
+    @Html.Raw(TempData.ContainsKey("csv") ? TempData["csv"] : "")
+</div>
+
+@section Scripts{
+    <script type="text/javascript" src="~/js/matrixService.js"></script>
+
+    <script type="text/javascript">
+        var drawMatrix = function (matrix) {
+            let tableContainer = $("#table-container");
+            tableContainer.empty();
+            $(matrix).each((i, el) => tableContainer.append(`<div class="matrix-row">${el}</div>`));
+        }
+
+        var getRandomMatrix = function () {
+            try {
+                matrixService.getRandomMatrixRequest(function (data) {
+                    drawMatrix(data.matrix);
+                });
+            } catch (err) {
+                alert(err);
+            }
+        }
+
+        var getCsv = function () {
+            try {
+                let matrix = "";
+                $(".matrix-row").each((i, el) => matrix += (`${el.innerHTML}\n\r`));
+                matrixService.getCsvRequest(matrix);
+            } catch (err) {
+                alert(err);
+            }
+        }
+
+        var getRotatedMatrix = function () {
+            try {
+                let matrix = [];
+                $(".matrix-row").each((i, el) => {
+                    if (el.innerHTML !== "")
+                        matrix.push(JSON.parse(`[${el.innerHTML}]`))
+                });
+                matrixService.getRotatedMatrixRequest({ matrix: matrix }, function (data) { drawMatrix(data.matrix); });
+            } catch (err) {
+                alert(err);
+            }
+        }
+    </script>
+}
